@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-18)
+
+
+### Features
+
+* Actualizacion ([#1](https://github.com/mauriciochavez21/frontend3-week5-activity/issues/1)) ([f5c20b2](https://github.com/mauriciochavez21/frontend3-week5-activity/commit/f5c20b29170259769512b912affa6938a72f9f3f))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 
